@@ -1,3 +1,5 @@
+# The goal of this project is to fine tune the signals for accuracy and then automate the trades on various dex. 
+
 ## CoinGecko trade signals for ETH, BTC, TLOS
 
 **#Gecko-signals**
